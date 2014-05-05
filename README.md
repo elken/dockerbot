@@ -18,3 +18,9 @@ Setup:
 6. `bundle install`
 
 7. `ruby dockerbot.rb`
+
+8. Go to `https://index.docker.io/u/<user_name>/<repo_name>/settings/webhooks/` and add your *.ngrok.com address with `/payload`, or whatever you changed in dockerbot.rb
+
+9. Click "Test" to have a test request sent
+
+10. Profit.
