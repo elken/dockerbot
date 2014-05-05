@@ -1,7 +1,7 @@
 dockerbot
 =========
 
-A (very) small ruby app to email you RE: docker pushes.
+A (very) small ruby app to email you RE: docker pushes. My knowledge of Ruby is EXTREMELY minimal, and as such, this is very hacked together. Nevertheless, it works. Feel free to submit pull requests to make it better.
 
 Setup:
 
